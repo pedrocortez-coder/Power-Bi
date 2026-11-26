@@ -1,0 +1,10 @@
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\bin\Debug\BancodeDados01.exe.config
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\bin\Debug\BancodeDados01.exe
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\bin\Debug\BancodeDados01.pdb
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\obj\Debug\BancodeDados01.csproj.AssemblyReference.cache
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\obj\Debug\BancodeDados01.Form1.resources
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\obj\Debug\BancodeDados01.Properties.Resources.resources
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\obj\Debug\BancodeDados01.csproj.GenerateResource.cache
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\obj\Debug\BancodeDados01.csproj.CoreCompileInputs.cache
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\obj\Debug\BancodeDados01.exe
+C:\Users\MICRO17\Documents\Visual Studio 26\BancodeDados01\BancodeDados01\obj\Debug\BancodeDados01.pdb

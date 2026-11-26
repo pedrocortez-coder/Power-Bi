@@ -1,0 +1,5 @@
+CREATE TABLE professores (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    salario DECIMAL(10,2)
+);

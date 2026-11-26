@@ -1,0 +1,5 @@
+C:\Users\MICRO17\Documents\Visual Studio 26\Prova\Prova\obj\Debug\Prova.csproj.AssemblyReference.cache
+C:\Users\MICRO17\Documents\Visual Studio 26\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\MICRO17\Documents\Visual Studio 26\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\MICRO17\Documents\Visual Studio 26\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\MICRO17\Documents\Visual Studio 26\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache

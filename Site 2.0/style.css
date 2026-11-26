@@ -1,0 +1,33 @@
+*{
+   margin:0;
+  padding:0;
+}
+
+body{
+    width: 100vw;
+    height: 100vw;
+    background-color: black;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.container{
+  background: #e4e4e4;
+  width: 100vw;
+  height: 100vw;
+
+  display: grid;
+  grid-template-areas: 
+  "l c r"
+  "f t f";
+  grid-template-columns: 1fr 1fr 1fr ;
+  grid-template-rows: 4fr 1fr 1fr;
+}
+
+.nav-left{
+  background: #660101;
+  grid-area: c;
+}
+
+
+
